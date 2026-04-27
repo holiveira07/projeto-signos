@@ -1,0 +1,17 @@
+body {
+  background: linear-gradient(135deg, #4facfe, #00f2fe);
+  min-height: 100vh;
+}
+
+.card {
+  border-radius: 20px;
+}
+
+h1,
+h2 {
+  font-weight: bold;
+}
+
+.signo-icon {
+  font-size: 60px;
+}
